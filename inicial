@@ -3,11 +3,17 @@
    <head>
     <meta charset="UTF-8">
     <style>
-    
+      .titulo {
+         color: #7A451D;
+         background-image: linear-gradient(50deg, white, #E7CDFF);
+         font-family: linotte, sans-serif;
+      }
     </style>
    </head>
    <body>
-
+      <div class= titulo>
+         Hello, world!
+      </div>
    </body>
    <footer>
 
